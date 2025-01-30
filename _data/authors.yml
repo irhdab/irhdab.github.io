@@ -1,0 +1,14 @@
+
+Matt Friedman:
+  name        : "Matt Friedman"
+  bio         : "hellnah"
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:hdab@keemail.me"
+
+김한진:
+  name        : "김한진"
+  bio         : "I ordered what?"
+  avatar      : "/assets/images/bio-photo.jpg"
